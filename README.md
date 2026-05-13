@@ -42,8 +42,6 @@ At-Risk    →  everything else
 
 ## 📊 Dashboard Highlights
 
-> *(Upload `Dashboard.png` to see the preview here)*
-
 The Power BI report includes 4 interactive pages:
 
 | Page | Content |
