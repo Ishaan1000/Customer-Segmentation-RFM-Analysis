@@ -109,6 +109,13 @@ Run all cells. Output CSVs will be created in `data/`:
 
 Open the `.pbix` file in Power BI Desktop and point its data source to `data/rfm_segmented_export.csv`.
 
+#### 6. Generate Visualizations:
+```python
+from visualization import RFMVisualizer
+viz = RFMVisualizer(rfm_data)
+viz.plot_rfm_distribution()
+viz.plot_heatmap()
+```
 ---
 
 ## 📈 Key Results
@@ -137,5 +144,5 @@ Open the `.pbix` file in Power BI Desktop and point its data source to `data/rfm
 ## 📬 Contact
 
 **Ish**  
-📧 your-email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+📧 ishaan.mankotia789@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/ishaanmankotia/)
