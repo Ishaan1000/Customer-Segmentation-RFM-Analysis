@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+env/
+venv/
+.venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Generated outputs (keep source data, ignore exports)
+data/rfm_segmented_export.csv
+data/rfm_customers.csv
+data/segment_summary.csv
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
